@@ -1,4 +1,4 @@
-# animated_coffee
+# salon_onprocess
 
 A new Flutter project.
 
